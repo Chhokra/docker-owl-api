@@ -1,0 +1,11 @@
+{
+    "debug": false,
+    "hostname": "",
+    "ip": "",
+    "database": {
+        "addr": "127.0.0.1:3306",
+        "account": "root",
+        "password": ""
+    }
+}
+
